@@ -1,6 +1,0 @@
-prune debian
-prune docs
-include picraft/block.data
-include picraft/block.color
-include README.rst
-include LICENSE.txt
